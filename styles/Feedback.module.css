@@ -1,0 +1,23 @@
+.feedback {
+    background-image: url("../public/assets/images/png/background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.title {
+    color: var(--white-color);
+    margin-bottom: 60px;
+}
+
+.cardFeedback {
+    background: var(--white-color);
+    width: 255px;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+}
+
+.image {
+    margin: 0 auto;
+    height: 100%
+}

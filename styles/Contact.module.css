@@ -1,0 +1,84 @@
+.contact {
+}
+
+.title {
+  color: var(--main-color);
+  margin-bottom: 70px;
+}
+
+.form {
+  display: block;
+  max-width: 570px;
+  padding: 0 10px;
+}
+
+.image {
+  max-width: 570px;
+  width: 100%;
+  padding: 0 10px;
+}
+
+.input {
+  margin: 0 0 10px 0;
+  padding: 20px 18px;
+  width: 100%;
+  max-width: 570px;
+  outline: none;
+  border: 1px solid #142444;
+  border-radius: 5px;
+  display: inline-block;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: 0.2s ease all;
+  -moz-transition: 0.2s ease all;
+  -ms-transition: 0.2s ease all;
+  -o-transition: 0.2s ease all;
+  transition: 0.2s ease all;
+}
+
+.form .input[type="text"]:focus {
+  border-color: #142444;
+}
+
+.button {
+  padding: 20px 0;
+  width: 100%;
+  margin-top: 20px;
+  background: #142444;
+  border-radius: 5px;
+  border: none;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  color: white;
+  -webkit-transition: 0.2s ease all;
+  -moz-transition: 0.2s ease all;
+  -ms-transition: 0.2s ease all;
+  -o-transition: 0.2s ease all;
+  transition: 0.2s ease all;
+}
+
+.button:hover {
+  opacity: 0.8;
+}
+
+.button:active {
+  opacity: 0.4;
+}
+
+@media (max-width: 992px) {
+  .title {
+    margin-bottom: 40px;
+  }
+
+  .formCenter {
+    display: flex;
+    justify-content: center;
+  }
+
+  .form {
+    margin-top: 20px;
+  }
+}

@@ -1,0 +1,36 @@
+.languageWrapper {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.languageWrapper ul {
+    margin-bottom: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.languageWrapper li a {
+    margin-right: 10px;
+    font-size: 16px;
+    text-decoration: none;
+    color: var(--white-color);
+}
+
+.languageWrapper li:last-child {
+    margin-right: 0;
+}
+
+@media (max-width: 1200px) {
+    .languageWrapper li a {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .languageWrapper li a {
+        font-size: 12px;
+    }
+}

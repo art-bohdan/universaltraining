@@ -1,0 +1,57 @@
+.experts {
+}
+
+.title {
+  color: var(--white-color);
+  margin-bottom: 70px;
+}
+
+.description {
+  margin-top: 30px !important;
+  font-size: 24px;
+  color: var(--main-color);
+}
+
+.customBackground {
+  background: var(--main-color);
+  position: absolute;
+  z-index: -10;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 40%;
+}
+
+.text {
+  position: relative;
+  font-size: 20px;
+  color: #fff;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin-bottom: 0;
+}
+
+.textWrapper {
+  background: red;
+  height: 100%;
+  position: absolute;
+  width: 100%;
+  padding-bottom: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+
+.customCard {
+  position: relative;
+  max-width: 350px;
+  max-height: 478px;
+}
+
+.image {
+  position: relative;
+  max-width: 350px;
+  max-height: 478px;
+}

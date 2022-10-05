@@ -1,0 +1,125 @@
+{
+  "HeroSection": {
+    "title": "Etykieta i komunikacja w biznesie",
+    "description": "Najlepsze przygotowanie polskich przedsiębiorców do konkurowania na rynkach zagranicznych oraz właściwe przeszkolenie urzędników reprezentujących swoje instytucje na zewnątrz i uczestniczących projektach międzynarodowych.",
+    "checkOffer": "Sprawdż ofertę",
+    "companyName": "UNIVERSAL TRAINING"
+  },
+  "AboutSection": {
+    "About": "O nas",
+    "AboutDescription": "Universal Training oferuje szkolenia z zakresu komunikacji, etykiety w biznesie i protokołu dyplomatycznego. Szkolenia są skierowane do pracowników instytucji publicznych, przedsiębiorstw państwowych i prywatnych, organizacji biznesowych, instytucji naukowych, uczelni wyższych oraz dużej gastronomii, etc. Szkolenia poprawiają umiejętności komunikacyjne, budują pewność siebie i zwiększają profesjonalizm w kontaktach służbowych i biznesowych. Pomagają budować relacje oficjalne i towarzyskie w zgodzie zasadami etykiety oraz poszanowaniem różnic międzykulturowych. Wpływają skutecznie na budowanie wizerunku profesjonalnej organizacji, instytucji lub firmy."
+  },
+  "OffersSection": {
+    "Offers": "Oferta",
+    "OffersTitle": "Zapoznaj się z naszą ofertą",
+    "card1": {
+      "title": "etukieta w komunikacji biznesowej i międzykultorowej",
+      "description": ""
+    },
+    "card2": {
+      "title": "etykieta w biznesie i protokół dyplomatyczny",
+      "description": ""
+    },
+    "card3": {
+      "title": "etykieta w komunikacji z elementami protokołu dyplomatycznego ",
+      "description": ""
+    },
+    "card4": {
+      "title": "etykieta wykonywania zawodu",
+      "description": ""
+    },
+    "card5": {
+      "title": "savoir vivre i etykieta z elementami protokołu dyplomatycznego w pracy sekretariatu",
+      "description": ""
+    },
+    "card6": {
+      "title": "etykieta i komunikacja w gastronomii",
+      "description": ""
+    },
+    "card7": {
+      "title": "wszystko co chcielibyście wiedzieć o winie ale boicie się zapytać",
+      "description": ""
+    },
+    "card8": {
+      "title": "zaprojektuj swoje własne szkolenie",
+      "description": ""
+    }
+  },
+  "ExpertsSection": {
+    "Experts": "Eksperci",
+    "ExpertsTitle": "Nasz zespół",
+    "card1": {
+      "position": "Ambasador",
+      "name": "Paweł Grotowski"
+    },
+    "card2": {
+      "position": "Ambasador",
+      "name": "Krzysztof Płomiński"
+    },
+    "card3": {
+      "position": "Ambasador",
+      "name": "Jan Wieliński"
+    },
+    "card4": {
+      "position": "Ambasador",
+      "name": "Paweł Grotowski"
+    },
+    "card5": {
+      "position": "Ambasador",
+      "name": "Paweł Grotowski"
+    },
+    "description": "Jesteśmy zespołem profesjonalistów, którzy reprezentowali Polskę poza granicami naszego kraju, realizowali dyplomatyczne, polityczne i gospodarcze projekty międzynarodowe, zajmowali się komunikacją międzynarodową i międzykulturową i znają dobrze zwyczaje i kulturę biznesową w najważniejszych regionach i krajach świata. Oferujemy także przygotowanie do wyjazdów biznesowych, wsparcie negocjacji międzynarodowych, doradztwo w trakcie delegacji biznesowych w obcych kulturowo krajach, w szczególności w krajach pozaeuropejskich. Do współpracy zapraszamy także instytucje publiczne, rządowe i samorządowe, które chcą podnieść kwalifikacje swoich pracowników w obszarze właściwej i skutecznej komunikacji międzykulturowej i budowaniu pozytywnego wizerunku całej instytucji."
+  },
+  "StatisticsSection": {
+    "card1": {
+      "description": "Lata pracy na rynku"
+    },
+    "card2": {
+      "description": "Konsultacji rocznie"
+    },
+    "card3": {
+      "description": "Aktualnych szkoleń"
+    },
+    "card4": {
+      "description": "Zadowolonych klientów"
+    }
+  },
+  "FeedbackSection": {
+    "Feedback": "Opinie",
+    "FeedbackTitle": "Klienci, którzy nam zaufali"
+  },
+  "ContactSection": {
+    "Contact": "Kontakt",
+    "title": "Skontaktuj się z nami",
+    "form": {
+      "name": "Imię",
+      "phone": "Numer telefonu",
+      "email": "Adres e-mail",
+      "description": "Treść wiadomości",
+      "send": "Wyślij"
+    }
+  },
+  "FooterSection": {
+    "col1": {
+      "title": "Na skróty"
+    },
+    "col2": {
+      "title": "Adres firmy",
+      "row1": "Paweł Grotowski Universal Training",
+      "row2": "Wysowska 13, 02-928 Warszawa",
+      "row3": "REGON: 369733567",
+      "row4": "NIP: 5211880791"
+    },
+    "col3": {
+      "title": "Odwiedź nas na",
+      "row1": "Facebook",
+      "row2": "Instagram",
+      "row3": "LinkedIn"
+    },
+    "col4": {
+      "title": "Kontakt",
+      "row1": "Email: universal-trade@wp.pl",
+      "row2": "Tel./Ph. +48 600 439 948"
+    }
+  }
+}

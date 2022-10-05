@@ -1,26 +1,244 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+
+:root {
+    --main-color: #142444;
+    --secondary-color: #D9B489;
+    --white-color: #fff;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+.card-header {
+    padding: 0 !important;
+    color: transparent !important;
+    background-color: transparent !important;
+    border-bottom: transparent !important;
+}
+
+#landing-page {
+    width: 100%;
+    height: max-content;
+    overflow-x: hidden;
+}
+
+html,
+body,
+#root,
+section {
+    width: 100%;
+    height: max-content;
+    position: relative;
 }
 
 * {
-  box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-  }
+html {
+    height: max-content;
+    scroll-behavior: smooth;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#root {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+.slick-track {
+    height: 100%;
+}
+
+.slick-slider {
+    overflow: visible;
+}
+
+.slick-slide {
+    min-height: 240px;
+}
+
+.slick-arrow {
+    width: 18px;
+    height: 36px;
+    z-index: 1;
+    text-indent: -1000em;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    position: absolute;
+    transform: translateY(17px);
+}
+
+.slick-arrow.slick-next {
+    width: 18px;
+    height: 36px;
+    background-image: url("../public/assets/images/svg/arrow-right.svg") !important;
+    margin-top: -30px;
+    right: -50px;
+}
+
+.hamburger {
+    cursor: pointer;
+}
+
+.desktop-flex {
+    display: flex !important;
+}
+
+.mobile-block {
+    display: none !important;
+}
+
+.mobile-flex {
+    display: none !important;
+}
+
+.hidden {
+    display: none !important;
+}
+
+@media (max-width: 768px) {
+    .desktop-flex {
+        display: none !important;
+    }
+
+    .mobile-flex {
+        display: flex !important;
+    }
+
+    .mobile-block {
+        display: block !important;
+    }
+}
+
+.slick-arrow.slick-prev {
+    width: 18px;
+    height: 36px;
+    background-image: url("../public/assets/images/svg/arrow-left.svg") !important;
+    margin-top: -30px;
+    left: -50px;
+}
+
+.slick-prev::before {
+    content: '' !important;
+}
+
+.slick-next::before {
+    content: '' !important;
+}
+
+
+.container-fluid {
+    width: 100%;
+}
+
+.default-container {
+    padding: 100px 0;
+}
+
+.container-xxl {
+    max-width: 1440px !important;
+    background-color: transparent;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    height: 100%;
+}
+
+.container-xl {
+    max-width: 1120px !important;
+    background-color: transparent;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    height: 100%;
+}
+
+h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 130%;
+    text-align: center;
+}
+
+h3 {
+    margin: 0 !important;
+    padding: 0 !important;
+    margin-block: 0 !important;
+    line-height: 1.4 !important;
+    letter-spacing: 0.02em;
+}
+
+h5 {
+    font-size: 24px !important;
+    line-height: 1.6 !important;
+    letter-spacing: 0.06em !important;
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 32px !important;
+    }
+
+    h3 {
+        font-size: 24px !important;
+    }
+}
+
+
+.mobile-collapsed {
+    display: flex !important;
+}
+
+.collapsing {
+    animation: slideDown 0.7s forwards;
+}
+
+.show {
+    display: flex !important;
+}
+
+.slideUp {
+    animation: slideUp 0.7s forwards;
+}
+
+.mobile-hidden {
+    display: none !important;
+}
+
+.mobile-link {
+    padding: 8px 0;
+    width: 100%;
+    color: #818a8a;
+    font-size: 24px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: filter 0.2s linear;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+@keyframes slideDown {
+    0% {
+        height: 0;
+        opacity: 0;
+    }
+    100% {
+        height: 100vh;
+        opacity: 1;
+    }
+}
+
+@keyframes slideUp {
+    0% {
+        height: 100vh;
+        opacity: 1;
+    }
+    100% {
+        height: 0;
+        opacity: 0;
+    }
 }

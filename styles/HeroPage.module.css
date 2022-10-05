@@ -1,0 +1,54 @@
+.heroPage {
+    background: var(--main-color);
+    height: 800px;
+    margin-bottom: 91px;
+}
+
+.heroPageWrapperText {
+    margin-top: 129px;
+    transform: translate(-124px);
+
+}
+
+.title {
+    color: var(--secondary-color);
+    font-weight: 900;
+    width: 620px;
+    font-size: 48px;
+    line-height: 130%;
+    margin-bottom: 15px;
+}
+
+.description {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    width: 620px;
+    line-height: 137.02%;
+    color: var(--white-color);
+    margin-bottom: 25px;
+}
+
+.buttonText {
+    color: var(--white-color);
+    font-size: 18px;
+    text-align: center;
+}
+
+.button {
+    background-color: transparent;
+    border-radius: 5px;
+    border: 1px solid var(--secondary-color);
+    opacity: 0.9;
+    cursor: pointer;
+    display: flex;
+    padding: 21px 73px;
+    width: max-content;
+    filter: drop-shadow(0px 0px 5px rgba(217, 180, 137, 0.3));
+}
+
+.heroPageImage {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
