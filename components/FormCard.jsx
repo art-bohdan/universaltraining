@@ -12,21 +12,44 @@ const initState = () => ({
 
 export const FormCard = () => {
   const [templateState, setTemplateState] = React.useState(initState())
+  const [emailError, setEmailError] = React.useState("")
+  const [disabled, setDisable] = React.useState(true)
   const { t } = useTranslation()
-
-  console.log(templateState)
 
   const mailSend = (e) => {
     e.preventDefault()
-    console.log(templateState)
     emailjs.send("service_5gmmh7s", "template_ko3rhkp", templateState, "POw3u2e1ljmjgrFzu").then((res) => {
-      console.log("Success", res.status, res.text)
       setTemplateState(initState())
     }),
       (err) => {
         console.log("FAILED...", err)
       }
   }
+
+  // const onBlurEmail = (event) => {
+  //   const regexp =
+  //     /^(([^<>()[\].,;:\s@"]+(\.[^<>()[\].,;:\s@"]+)*)|(".+"))@(([^<>()[\].,;:\s@"]+\.)+[^<>()[\].,;:\s@"]{2,})$/i
+  //   if (!event.target.value) {
+  //     setEmailError("Это поле не может быть пустым")
+  //   }
+  //   if (!regexp.test(String(event.target.value).toLowerCase())) {
+  //     setEmailError("Имейл не корректный")
+  //   } else {
+  //     setEmailError("")
+  //   }
+  // }
+
+  React.useEffect(() => {
+    if (
+      templateState.name.length > 0 &&
+      templateState.phone.length > 0 &&
+      templateState.userEmail.length > 0 &&
+      templateState.message.length > 0
+    ) {
+      setDisable(false)
+    }
+  }, [templateState])
+
   return (
     <form className={styles.form}>
       <input
@@ -37,6 +60,7 @@ export const FormCard = () => {
         value={templateState.name}
         onChange={(e) => setTemplateState({ ...templateState, name: e.target.value })}
       />
+
       <input
         placeholder={t("common:ContactSection.form.phone")}
         className={styles.input}
@@ -62,7 +86,7 @@ export const FormCard = () => {
         onChange={(e) => setTemplateState({ ...templateState, message: e.target.value })}
       />
 
-      <button className={styles.button} type="submit" onClick={mailSend}>
+      <button className={styles.button} type="submit" onClick={mailSend} disabled={disabled}>
         {t("common:ContactSection.form.send")}
       </button>
     </form>

@@ -23,8 +23,8 @@ const Meta = ({ title, keywords, description }) => {
 
 Meta.defaultProps = {
   title: "common:HeroSection.companyName",
-  keywords: "web development, programming",
-  description: "common:HeroSection.description"
+  keywords: "universal training",
+  description: "common:HeroSection.description1"
 }
 
 export default Meta

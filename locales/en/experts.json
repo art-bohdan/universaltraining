@@ -1,0 +1,59 @@
+{   
+    "expert1":{
+        "title":"Paweł Olgierd Grotowski",
+        "description1":"Expert and trainer in business etiquette and communication, diplomatic protocol and cultural differences. Long-time employee of the Ministry of Foreign Affairs, UKIE and the Chancellery. From 2005 to 2011 in the Diplomatic Protocol of the Ministry of Foreign Affairs, responsible for the preparation and implementation of more than 150 visits at the highest level with Presidents and Prime Ministers, at home and abroad.",
+        "description2":"Graduate of the Institute of International Affairs at the University of Warsaw. He completed postgraduate studies in European Integration at the National School of Public Administration and Ecole Nationale d' Administration, as well as the National Security Studies organized by Warsaw University and the Academy of National Defense.", 
+        "description3":"Graduate of the School of Social and Political Leaders at the R. Schuman Foundation.",
+        "description4":"Since 2010, he has been conducting training courses on Etiquette and Diplomatic Protocol. He cooperates with the Warsaw Chamber of Commerce, the Polish Institute of International Affairs, and the National School of Public Administration. He has completed more than 100 trainings for, among others, the Chancellery of the President of the Republic of Poland, the Chancellery of the Sejm of the Republic of Poland, the Kraków Balice International Airport, the Management Board of IKEA, PGE, the Polish Post Office and employees of many local government institutions, universities, Polish and foreign enterprises."
+    },
+    "expert3":{
+        "title":"Ambasador Jan Wieliński",
+        "description1":"A specialist in sub-Saharan Africa, he is a former diplomat who worked in the Polish embassies in Kenya, Liberia, Nigeria and Zimbabwe. He spent more than 20 years in diplomatic posts in Africa.",
+        "description2":"From 2007 to 2010, he was Poland's representative on the European Union's Africa Working Group.",
+        "description3":"He has represented Poland at a number of international conferences on environmental issues [UNEP] and human settlements [Habitat], among others, and at conferences of the Organization of African Unity and the African Union.",
+        "description4":"At the Ministry of Foreign Affairs, he coordinated Poland's political and economic cooperation with the countries of sub-Saharan Africa.A graduate of political studies and postgraduate diplomatic studies at the Polish Institute of International Affairs. He also studied at the University of Warsaw.",
+        "description5":"He also completed postgraduate studies in international economic relations at the Warsaw School of Economics.Currently, he actively participates in the activities of the National Chamber of Commerce as a diplomatic advisor to the President, preparing economic missions to Africa and conducting business seminars for representatives of Polish companies interested in economic cooperation with Africa. He has worked with Navimor International, PwC, Polmot Holding, BGZ BNP Paribas, among others."
+    },
+    "expert2":{
+        "title":"Ambasador Krzysztof Płomiński",
+        "description1":"Retired diplomat, ambassador ad personam, former director and two-time deputy director of the Department of Africa and the Middle East at the Ministry of Foreign Affairs.",
+        "description2":"He worked in posts in Libya, Jordan, and served as Poland's ambassador to Iraq and Saudi Arabia. During his mission in Baghdad, Poland undertook to represent US interests in Iraq. Amb.",
+        "description3":"Plominski is an advisor to the National Chamber of Commerce and co-founder of the Polish-Arab Initiative Foundation. He is the author of more than a dozen publications on economics and foreign policy in the Middle East region, an academic lecturer and commentator, and a business coach for Polish and foreign companies. In 2019, he published the book 'Arabia Incognita. Report of the Polish Ambassador'.",
+        "description4":"Institute of International Relations and the Hague Academy of International Law. He was awarded the Polonia Restituta Officer's Cross, as well as Saudi and American medals."
+    },
+    "expert4":{
+        "title":"Ambasador Tadeusz Chomicki",
+        "description1":"Far East and security expert A sociologist by profession.",
+        "description2":"He studied at Oxford and in Florence. Associated with the Ministry of Foreign Affairs since 1992. He headed the Department of Africa, Asia, Australia and Oceania, then the Department of Export Policy, which he initiated, then the Department of Security, the Minister's Secretariat and the Department of Asia and the Pacific.",
+        "description3":"From 2001 to 2005 he was Polish Ambassador to South Korea; during this time LG and Samsung decided to invest in Poland. From 2009 to 2015, he was Ambassador of the Republic of Poland to China and Mongolia, where he became famous for, among other things, his participation in the music video for Gangam Style.",
+        "description4":"He is currently working on cybersecurity, non-proliferation of weapons of mass destruction and disarmament issues."
+    },
+    "expert5":{
+        "title":"Ambasador Andrzej Braiter",
+        "description1":"Expert on Angola, Brazil and Latin America and the defense industry.",
+        "description2":"Philologist and economist. He studied in Brazil and the United Kingdom. Associated with the Ministry of Foreign Affairs since 1990. Worked in the Department of America, Diplomatic Protocol, Security Department and the Department of Development Cooperation, among others. From 1993 to 2002 Ambassador to Angola and St. Thomas and the Princes Islands. From 2005 to 2009 Ambassador to Costa Rica, Nicaragua, Guatemala, Belize, Honduras and Salvador, and from 2013 to 2018 Ambassador of Poland to Brazil.",
+        "description3":"Worked out the repayment of Angola's and Nicaragua's debts to Poland. Involved in anti-terrorist activities. Personally planned and carried out the operation to free Polish hostages held by guerrillas on the border of the Democratic Republic of Congo and Angola. Knight of many orders and national decorations.",
+        "description4":"He is currently an economic advisor and academic lecturer at many Polish and foreign universities."
+    },
+    "expert6":{
+        "title":"Redaktor Krzysztof Turowski",
+        "description1":"Polish television and radio journalist, publicist, former foreign correspondent and diplomat. in the 1980s, he worked with the editorial offices of 'Culture of Paris', 'Radio France Internationale', 'Polish Daily' in London and 'Radio Free Europe' in Munich.",
+        "description2":"In the 1990s, he was a correspondent for Polish Radio, TVP and 'Rzeczpospolita' in Paris and Brussels, and later a Warsaw correspondent for the French daily 'Le Figaro,' and the author of the well-known talk-show on TVP 'Hour of Honesty.' In subsequent years, advisor to the board of 'Polskapresse' for PR and lobbying. From 1997 to 2005, Director of the Polish Tourist Information Center in Brussels, responsible for promoting Poland in Belgium, Luxembourg, EU and NATO institutions, and then advisor to the PTO President for media and communications.",
+        "description3":"From 2012 to 2016, Counselor at the Embassy and Head of the Trade and Investment Promotion Department in Brussels.",
+        "description4":"He is currently giving lectures and training in public relations and social communication, as well as workshops on business culture in France, Belgium and Luxembourg."
+    },
+    "expert7":{
+        "title":"Artur Habant",
+        "description1":"Diplomat with more than 20 years of experience in European politics.",
+        "description2":"Expert in international and intercultural communication, media relations and public diplomacy. Spokesperson of the Permanent Representation of the Republic of Poland to the EU - created communication strategies and coordinated Poland's information activities in Brussels. Previously Charge d'Affaires of the Polish Embassy in the Netherlands, secretary of the Utrecht Conference - a bilateral forum for cooperation on European policy, spokesman and first secretary for political affairs at the Embassy in Stockholm during the pre-accession period.",
+        "description3":"At the Ministry of Foreign Affairs, he dealt with relations with Germany, Lithuania, Scandinavian countries and the European Parliament, among others. Prior to joining the diplomatic service, he worked in the media, including Panorama TVP2 and TNL TV in Lublin.",
+        "description4":"Graduated in English philology from Maria Curie-Sklodowska University in Lublin and diplomacy from Oxford University. He is fluent in English, German, Dutch and Swedish, and speaks French, Spanish and Russian. http://habant.eu"
+    },
+    "expert8":{
+        "title":"Mgr inż. Marta Foryś",
+        "description1":"Head of the Department of International Cooperation at AGH in Cracow, Chair of the network of cooperation departments of Polish universities - IROs Forum.",
+        "description2":"Expert in cooperation with Vietnam and relations with foreign alumni. Member and co-founder of the Polish Fundraising Association and founder of the Krakow Universities Network (KUN).",
+        "description3":"She is also a member of NAFSA, EAIE and the Polonia Technica organization. Marta Foryś graduated from the Faculty of Management at AGH. She has been working at AGH since 2002, initially as an International Students Officer at the AGH International School of Engineering. In 2003, she was awarded a scholarship from the Kosciuszko Foundation. In 2017, she was a fellow of the International Visitor Leadership Program funded by the US Department of State's Bureau of Educational and Cultural Affairs.",
+        "description4":"He is also currently a university project manager for Erasmus+, Education and NAWA programs."
+    }
+}

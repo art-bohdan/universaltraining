@@ -1,8 +1,11 @@
 {
   "HeroSection": {
-    "title": "Etykieta i komunikacja w biznesie",
-    "description": "Najlepsze przygotowanie polskich przedsiębiorców do konkurowania na rynkach zagranicznych oraz właściwe przeszkolenie urzędników reprezentujących swoje instytucje na zewnątrz i uczestniczących projektach międzynarodowych.",
+    "title": "ETYKIETA W BIZNESIE I PROTOKÓŁ DYPLOMATYCZNY",
+    "description1": "Szkolenia i konsultacje prowadzą dyplomaci z wieloletnim doświadczeniem, wykładowcy akademiccy i eksperci od poszczególnych rynków.",
+    "description2": "Nasze działania są bardzo wysoko oceniane zarówno przez administrację państwową, jak i firmy polskie oraz zagraniczne.",
+    "description3": "Zapraszamy do współpracy.",
     "checkOffer": "Sprawdż ofertę",
+    "writeToUs": "Napisz do nas",
     "companyName": "UNIVERSAL TRAINING"
   },
   "AboutSection": {
@@ -11,37 +14,40 @@
   },
   "OffersSection": {
     "Offers": "Oferta",
-    "OffersTitle": "Zapoznaj się z naszą ofertą",
+    "OffersTitle": "Szkolenia",
+    "OffersDescription":"Universal Training oferuje szkolenia z zakresu komunikacji, etykiety w biznesie i protokołu dyplomatycznego. Szkolenia są skierowane do pracowników instytucji publicznych, przedsiębiorstw państwowych i prywatnych, organizacji biznesowych, instytucji naukowych, uczelni wyższych etc. Szkolenia poprawiają umiejętności komunikacyjne, budują pewność siebie i zwiększają profesjonalizm w kontaktach służbowych i biznesowych. Pomagają budować relacje oficjalne i towarzyskie w zgodzie zasadami etykiety i z poszanowaniem różnic międzykulturowych. Wpływają skutecznie na tworzenie wizerunku profesjonalnej organizacji, instytucji lub firmy.",
+    "OffersConsultation":"Konsultacje",
+    "OffersConsultationDescription":"Universal Training oferuje także wsparcie dla polskich i europejskich firm planujących lub realizujących już działania za granicą. Doświadczeni dyplomaci wprowadzą Wasze firmy w arkana komunikacji międzykulturowej z przedstawicielami nawet najbardziej odległych regionów świata w Afryce, Azji czy Ameryce Południowej. Nasi eksperci przygotują Wasze firmy i Waszych menedżerów do ekspansji międzynarodowej, pomogą w przygotowaniu biznes planu, biorąc pod uwagę różnice kulturowe i odmienne preferencje konsumenckie, a także dzięki swojemu doświadczeniu wesprą doradztwem strategicznym na obcym kulturowo rynku.",
     "card1": {
-      "title": "etukieta w komunikacji biznesowej i międzykultorowej",
+      "title": "Etykieta w komunikacji biznesowej i międzykultorowej",
       "description": ""
     },
     "card2": {
-      "title": "etykieta w biznesie i protokół dyplomatyczny",
+      "title": "Etykieta w biznesie i protokół dyplomatyczny",
       "description": ""
     },
     "card3": {
-      "title": "etykieta w komunikacji z elementami protokołu dyplomatycznego ",
+      "title": "Etykieta w komunikacji z elementami protokołu dyplomatycznego ",
       "description": ""
     },
     "card4": {
-      "title": "etykieta wykonywania zawodu",
+      "title": "Etykieta wykonywania zawodu",
       "description": ""
     },
     "card5": {
-      "title": "savoir vivre i etykieta z elementami protokołu dyplomatycznego w pracy sekretariatu",
+      "title": "Savoir vivre i etykieta z elementami protokołu dyplomatycznego w pracy sekretariatu",
       "description": ""
     },
     "card6": {
-      "title": "etykieta i komunikacja w gastronomii",
+      "title": "Etykieta i komunikacja w gastronomii",
       "description": ""
     },
     "card7": {
-      "title": "wszystko co chcielibyście wiedzieć o winie ale boicie się zapytać",
+      "title": "Wszystko co chcielibyście wiedzieć o winie ale boicie się zapytać",
       "description": ""
     },
     "card8": {
-      "title": "zaprojektuj swoje własne szkolenie",
+      "title": "Zaprojektuj swoje własne szkolenie",
       "description": ""
     }
   },
@@ -49,7 +55,7 @@
     "Experts": "Eksperci",
     "ExpertsTitle": "Nasz zespół",
     "card1": {
-      "position": "Ambasador",
+      "position": "",
       "name": "Paweł Grotowski"
     },
     "card2": {
@@ -62,31 +68,63 @@
     },
     "card4": {
       "position": "Ambasador",
-      "name": "Paweł Grotowski"
+      "name": "Tadeusz Chomicki"
     },
     "card5": {
       "position": "Ambasador",
-      "name": "Paweł Grotowski"
+      "name": "Andrzej Braiter"
+    },
+    "card6": {
+      "position": "Redaktor",
+      "name": "Krzysztof Turowski"
+    },
+    "card7": {
+      "position": "",
+      "name": "Artur Habant"
+    },
+    "card8": {
+      "position": "",
+      "name": "Marta Foryś"
     },
     "description": "Jesteśmy zespołem profesjonalistów, którzy reprezentowali Polskę poza granicami naszego kraju, realizowali dyplomatyczne, polityczne i gospodarcze projekty międzynarodowe, zajmowali się komunikacją międzynarodową i międzykulturową i znają dobrze zwyczaje i kulturę biznesową w najważniejszych regionach i krajach świata. Oferujemy także przygotowanie do wyjazdów biznesowych, wsparcie negocjacji międzynarodowych, doradztwo w trakcie delegacji biznesowych w obcych kulturowo krajach, w szczególności w krajach pozaeuropejskich. Do współpracy zapraszamy także instytucje publiczne, rządowe i samorządowe, które chcą podnieść kwalifikacje swoich pracowników w obszarze właściwej i skutecznej komunikacji międzykulturowej i budowaniu pozytywnego wizerunku całej instytucji."
   },
   "StatisticsSection": {
     "card1": {
-      "description": "Lata pracy na rynku"
+      "description": "lat na rynku"
     },
     "card2": {
-      "description": "Konsultacji rocznie"
+      "description": "Szkolenia rocznie"
     },
     "card3": {
-      "description": "Aktualnych szkoleń"
+      "description": "Ofert Szkoleniowych"
     },
     "card4": {
       "description": "Zadowolonych klientów"
     }
   },
+  "CompaniesSection": {
+    "Companies": "Kompanje",
+    "CompaniesTitle": "Klienci, którzy nam zaufali"
+  },
   "FeedbackSection": {
     "Feedback": "Opinie",
-    "FeedbackTitle": "Klienci, którzy nam zaufali"
+    "FeedbackTitle": "Przeczytaj co mówią o nas klienci ",
+    "card1":{
+      "description":"Pragnę poinformować, iż p. Paweł Grotowski z firmy Universal Training z sukcesem przeprowadził spotkanie doradcze z zasad etykiety w komunikacji biznesowej w tym znaczenia pierwszego wrażenia i mowy ciała w budowaniu wizerunku firmy, zasad komponowania stroju według klasycznego męskiego dress codę, istoty różnic międzykulturowych i sposobów na ich przełamywanie oraz zasad dotyczących etykiety stołu i kultury wina. Spotkanie zostało wysoko ocenione przez uczestników. Pan Paweł Grotowski wykazał się dużą wiedzą, elastycznością i dopasowaniem do potrzeb uczestników. Atmosfera sprzyjała wymianie zdań i doświadczeń, dzięki czemu spotkanie miało charakter dynamiczny",
+      "caption": "Instytut Interwencji Gospodarczych BCC"
+    },
+    "card2":{
+      "description":"Podczas szkolenia trener wykazał się pełnym profesjonalizmem, zaangażowaniem i ogromną wiedzą w prezentowanym temacie, a także w sposób przystępny i interesujący zaprezentował uczestnikom zagadnienia związane z komunikacją werbalną i pozawerbalną, zasady savoir vivre i protokołu dyplomatycznego. Przekazana wiedza poparta została licznymi przykładami z bogatego życia zawodowego prowadzącego. Dodatkowo wysoka ocena kwalifikacji trenera znalazła potwierdzenie w wynikach ewaluacji szkolenia.",
+      "caption": "Ministerstwo Spraw Wewnętrznych i Administracji"
+    },
+    "card3":{
+      "description":"Kancelaria Prezydenta Rzeczypospolitej Polskiej zaświadcza, że Pan Paweł Grotowski przeprowadził szkolenie z zakresu Etykiety Urzędnika i Protokołu Dyplomatycznego dla pracowników Kancelarii Prezydenta Rzeczypospolitej Polskiej w terminie 28 września 2018 r.Szkolenie zostało przeprowadzone należycie i zgodnie z zawartą umową. Trener prowadzący szkolenie swoją wiedzę przekazywał w sposób zrozumiały dla uczestników, a jego kompetencje zostały ocenione pozytywnie w ankietach poszkoleniowych.",
+      "caption": "Kancelaria Prezydenta Rzeczypospolitej Polskiej"
+    },
+    "card4":{
+      "description":"Centrum Szkoleniowe Poczty Polskiej S.A. miało przyjemność współpracować z Panem Pawłem Grotowskim w ramach realizacji projektu szkoleniowego dla ok. 50 Dyrektorów Zarządzających Poczty Polskiej.Pan Paweł prowadził szkolenie pn. „Etykieta w biznesie z elementami protokołu dyplomatycznego”, które cieszyło się dużym uznaniem i zainteresowaniem. Uczestnicy cenili Go najbardziej za ogromną wiedzę wynikającą z doświadczeń zawodowych i umiejętność jej efektywnego przekazywania.",
+      "caption": "Poczta Polska S.A.Centrum Szkoleniowe"
+    }
   },
   "ContactSection": {
     "Contact": "Kontakt",
@@ -113,8 +151,7 @@
     "col3": {
       "title": "Odwiedź nas na",
       "row1": "Facebook",
-      "row2": "Instagram",
-      "row3": "LinkedIn"
+      "row2": "LinkedIn"
     },
     "col4": {
       "title": "Kontakt",

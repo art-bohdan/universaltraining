@@ -1,5 +1,6 @@
 .footer {
     background: var(--main-color);
+    padding: 100px 20px;
 }
 
 .title {
@@ -8,10 +9,24 @@
     margin-bottom: 8px
 }
 
+.footer a:hover {
+    color:var(--secondary-color);
+}
+
+.divider {
+    margin-bottom: 27px;
+    border-color:var(--white-color) !important;
+}
+.imageWrapper {
+    display: flex;
+    flex-direction: row;
+    height: max-content;
+}
+
 .subTitle {
     text-decoration: none;
     font-size: 15px;
-    margin-bottom: 8px;
+    margin-bottom: 5px !important;
     color: var(--white-color);
 }
 
@@ -23,30 +38,10 @@
 }
 
 .logoWrapper {
-    width: 15%;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
-}
-
-.dividerWrapper {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    flex-grow: 1;
-}
-
-.dividerRight {
-    height: 1px;
-    width: 25%;
-    background: var(--white-color);
-}
-
-.dividerLeft {
-    height: 1px;
-    width: 75%;
-    background: var(--white-color);
 }
 
 .logoName {
@@ -55,4 +50,22 @@
     margin-left: 10px;
 }
 
+@media (max-width: 768px) {
+    
+    .title {
+        font-size:12px !important;
+        font-weight: 600 !important;
+    }
+
+    .subTitle {
+        font-size:12px !important;
+        font-weight: 400 !important;
+    }
+    .col {
+        margin-bottom: 17px !important;
+    }
+    .footer {
+        padding: 70px 20px;
+    }
+}
 

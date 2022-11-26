@@ -1,0 +1,59 @@
+{   
+    "expert1":{
+        "title":"Paweł Olgierd Grotowski",
+        "description1":"Ekspert i trener w zakresie etykiety i komunikacji w biznesie, protokołu dyplomatycznego i różnic kulturowych. Wieloletni pracownik MSZ, UKIE i KPRM. W latach 2005 – 2011 w Protokole Dyplomatycznym MSZ, odpowiedzialny za przygotowanie i realizację ponad 150 wizyt na najwyższym szczeblu z udziałem Prezydentów i Premierów, w kraju i za granicą.",
+        "description2":"Absolwent Instytutu Spraw Międzynarodowych Uniwersytetu Warszawskiego. Ukończył studia podyplomowe z zakresu Integracji Europejskiej w Krajowej Szkole Administracji Publicznej i Ecole Nationale d’ Administration, a także Studium Bezpieczeństwa Narodowego organizowane przez Uniwersytet Warszawski i Akademię Obrony Narodowej.", 
+        "description3":"Absolwent Szkoły Liderów Społecznych i Politycznych przy Fundacji im. R. Schumana.",
+        "description4":"Od 2010 roku prowadzi szkolenia z zakresu Etykiety i Protokołu Dyplomatycznego. Współpracuje z Warszawską Izbą Gospodarczą, Polskim Instytutem Spraw Międzynarodowych, Krajową Szkołą Administracji Publicznej. Zrealizował ponad 100 szkoleń m.in. dla Kancelarii Prezydenta RP, Kancelarii Sejmu RP, Międzynarodowego Portu Lotniczego Kraków Balice, Zarządu IKEA, PGE, Poczty Polskiej oraz pracowników wielu instytucji samorządowych, uczelni wyższych, przedsiębiorstw polskich i zagranicznych."
+    },
+    "expert3":{
+        "title":"Ambasador Jan Wieliński",
+        "description1":"Specjalista w zakresie Afryki Subsaharyjskiej, były dyplomata pracujący w ambasadach RP w Kenii, Liberii, Nigerii i Zimbabwe. Na placówkach dyplomatycznych w Afryce spędził ponad 20 lat.",
+        "description2":"W latach 2007-2010 był przedstawicielem Polski w Grupie Roboczej Unii Europejskiej ds. Afryki.",
+        "description3":"Reprezentował Polskę na wielu konferencjach międzynarodowych m.in. ds. ochrony środowiska [UNEP] i osiedli ludzkich [Habitat] oraz na konferencjach Organizacji Jedności Afrykańskiej i Unii Afrykańskiej.",
+        "description4":" W Ministerstwie Spraw Zagranicznych koordynował polityczną i gospodarczą współpracę Polski z krajami Afryki Subsaharyjskiej.Absolwent studiów politycznych i podyplomowych dyplomatycznych w Polskim Instytucie Spraw Międzynarodowych. Studiował także na UW.",
+        "description5":"Ukończył również studia podyplomowe w zakresie międzynarodowych stosunków gospodarczych w Szkole Głównej Handlowej.Obecnie aktywnie uczestniczy w działalności Krajowej Izby Gospodarczej jako dyplomatyczny doradca Prezesa przygotowując misje gospodarcze do Afryki i prowadząc seminaria biznesowe dla przedstawicieli polskich firm zainteresowanych współpracą gospodarczą z Afryką. Współpracował m.in. z Navimor International, PwC, Polmot Holding, BGZ BNP Paribas."
+    },
+    "expert2":{
+        "title":"Ambasador Krzysztof Płomiński",
+        "description1":"Emerytowany dyplomata, ambasador ad personam, były dyrektor i dwukrotny wicedyrektor Departamentu Afryki i Bliskiego Wschodu w Ministerstwie Spraw Zagranicznych.",
+        "description2":"Pracował na placówkach w Libii, Jordanii, pełnił funkcję ambasadora RP w Iraku i Arabii Saudyjskiej. Podczas jego misji w Bagdadzie Polska podjęła się reprezentowania interesów USA w Iraku. Amb.",
+        "description3":"Płomiński jest doradcą Krajowej Izby Gospodarczej oraz współfundatorem Fundacji Inicjatywa Polsko-Arabska. Autor kilkunastu publikacji z zakresu ekonomii i polityki zagranicznej w regionie Bliskiego Wschodu, wykładowca akademicki i komentator, trener biznesowy firm polskich i zagranicznych. W 2019 roku opublikował książkę “Arabia Incognita. Raport polskiego ambasadora”.",
+        "description4":"Instytutu Stosunków Międzynarodowych oraz Haskiej Akademii Prawa Międzynarodowego. Odznaczony Krzyżem Oficerskim Polonia Restituta, a także medalami saudyjskimi i amerykańskimi."
+    },
+    "expert4":{
+        "title":"Ambasador Tadeusz Chomicki",
+        "description1":"Ekspert z zakresu Dalekiego Wschodu i bezpieczeństwa Z zawodu socjolog.",
+        "description2":"Studiował w Oxfordzie i we Florencji. Związany z Ministerstwem Spraw Zagranicznych od 1992 roku. Kierował Departamentem Afryki, Azji, Australii i Oceanii, następnie w Departamentem Polityki Eksportowej, którego był inicjatorem, następnie Departamentem Bezpieczeństwa, Sekretariatem Ministra oraz Departamentem Azji i Pacyfiku.",
+        "description3":" W latach 2001 – 2005 był Ambasadorem RP w Korei Południowej; w tym czasie na inwestycje w Polce zdecydowały się LG i Samsung. W latach 2009 – 2015 był Ambasadorem RP w Chinach i Mongolii, gdzie zasłynął m.in. z udziału w teledysku do muzyki Gangam Style.",
+        "description4":"Obecnie zajmuje się cyber-bezpieczeństwem, nieproliferacją broni masowego rażenia i kwestiami rozbrojenia."
+    },
+    "expert5":{
+        "title":"Ambasador Andrzej Braiter",
+        "description1":"Ekspert z zakresu Angoli, Brazylii i Ameryki Łacińskiej oraz przemysłu obronnego.",
+        "description2":"Filolog i ekonomista. Studiował w Brazylii i w Wielkiej Brytanii. Związany z Ministerstwem Spraw Zagranicznych od 1990 roku. Pracował m.in. w Departamencie Ameryki, Protokole Dyplomatycznym, Departamencie Bezpieczeństwa oraz Departamencie Współpracy Rozwojowej. W latach 1993 – 2002 Ambasador w Angoli i Wyspach Św. Tomasz i Książęcej. W latach 2005 – 2009 Ambasador w Kostaryce, Nikaragui, Gwatemali, Belize, Hondurasie i Salvadorze, w latach 2013 – 2018 Ambasador RP w Brazylii.",
+        "description3":"Wypracował spłatę zadłużenia Angoli i Nikaragui wobec Polski. Zaangażowany w działania antyterrorystyczne. Osobiście zaplanował i przeprowadził operację uwolnienia polskich zakładników przetrzymywanych przez partyzantów na pograniczu Republiki Demokratycznej Konga i Angoli. Kawaler wielu orderów i odznaczeń państwowych.",
+        "description4":"Obecnie doradca ekonomiczny i wykładowca akademicki na wielu polskich i zagranicznych uczelniach."
+    },
+    "expert6":{
+        "title":"Redaktor Krzysztof Turowski",
+        "description1":"Polski dziennikarz telewizyjny i radiowy, publicysta, były korespondent zagraniczny i dyplomata. latach 80. współpracował z redakcjami „Kultury” paryskiej, „Radio France Internationale”, „Dziennika Polskiego” w Londynie i „Radio Wolna Europa” w Monachium.",
+        "description2":"W latach 90. korespondent Polskiego Radia, TVP i „Rzeczpospolitej” w Paryżu i Brukseli, a następnie korespondent warszawski francuskiego dziennika „Le Figaro”, autor znanego talk-show w TVP „Godzina Szczerości”. W kolejnych latach doradca zarządu „Polskapresse” do spraw PR i lobbingu. W latach 1997 – 2005 Dyrektor Polskiego Ośrodka Informacji Turystycznej w Brukseli odpowiedzialny za promocję Polski w Belgii, Luksemburgu, instytucjach UE i NATO, a następnie doradca Prezesa POT ds. mediów i komunikacji.",
+        "description3":"W latach 2012 – 2016 Radca Ambasady i Szef Wydziału Promocji Handlu i Inwestycji  w Brukseli.",
+        "description4":"Obecnie prowadzi wykłady i szkolenia z zakresu public relations i komunikacji społecznej oraz warsztaty dotyczące kultury biznesowej we Francji, Belgii i Luksemburgu."
+    },
+    "expert7":{
+        "title":"Artur Habant",
+        "description1":"Dyplomata z ponad dwudziestoletnim doświadczeniem w polityce europejskiej.",
+        "description2":"Ekspert do spraw komunikacji międzynarodowej i międzykulturowej, relacji z mediami i dyplomacji publicznej. Rzecznik Stałego Przedstawicielstwa RP przy UE – tworzył strategie komunikacji i koordynował działalność informacyjną Polski w Brukseli. Wcześniej Charge d’Affaires Ambasady RP Niderlandach, skretarz Konferencji Utrechckiej – dwustronnego forum współpracy na temat polityki europejskiej, rzecznik i pierwszy sekretarz ds. politycznych Ambasady w Sztokholmie w okresie przedakcesyjnym.",
+        "description3":"W MSZ zajmował się między innymi stosunkami z Niemcami, Litwą, krajami skandynawskimi i Parlamentem Europejskim. Przed wstąpieniem do służby dyplomatycznej pracował w mediach, w tym w Panoramie TVP2 oraz w lubelskiej telewizji TNL.",
+        "description4":"Absolwent filologii angielskiej na UMCS w Lublinie i dyplomacji na Uniwersytecie Oksfordzkim. Włada biegle językiem angielskim,  niemieckim, niderlandzkim i szwedzkim oraz zna język francuski, hiszpański i rosyjski. http://habant.eu"
+    },
+    "expert8":{
+        "title":"Mgr inż. Marta Foryś",
+        "description1":"Kierownik Działu Współpracy z Zagranicą AGH w Krakowie, Przewodnicząca sieci działów współpracy uczelni polskich - IROs Forum.",
+        "description2":"Ekspert w dziedzinie współpracy z Wietnamem oraz relacji z absolwentami zagranicznymi. Członek i współzałożyciel Polskiego Stowarzyszenia Fundraisingu oraz założyciel Krakow Universities Network (KUN).",
+        "description3":"Jest również członkiem NAFSA, EAIE oraz organizacji Polonia Technica. Marta Foryś ukończyła studia wyższe na Wydziale Zarządzania AGH. W AGH pracuje od 2002 r., początkowo jako International Students Officer w Międzynarodowej Szkole Inżynierskiej AGH. W 2003 roku została stypendystką Fundacji Kościuszkowskiej. W 2017 roku była stypendystką International Visitor Leadership Program finansowanego przez Biuro ds. Edukacji i Kultury Departamentu Stanu USA.",
+        "description4":"Obecnie jest także kierownikiem projektów uczelnianych w programach Erasmus+, Edukacja oraz NAWA."
+    }
+}

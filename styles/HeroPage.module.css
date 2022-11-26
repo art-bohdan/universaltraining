@@ -1,54 +1,206 @@
 .heroPage {
-    background: var(--main-color);
-    height: 800px;
-    margin-bottom: 91px;
+    background:url("/assets/images/png/HeroBackground.png");
+    background-origin: content-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 900px;
 }
 
-.heroPageWrapperText {
-    margin-top: 129px;
-    transform: translate(-124px);
-
+.heroPageWrapper {
+    height: 100%;
 }
 
 .title {
     color: var(--secondary-color);
-    font-weight: 900;
-    width: 620px;
-    font-size: 48px;
-    line-height: 130%;
-    margin-bottom: 15px;
+}
+
+.heroPageWrapperText {
+    height: 100%;
+    display: flex;
+    z-index: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.buttonWrapper {
+    margin-top: 45px;
+    display: flex;
+    flex-direction: row;
 }
 
 .description {
     font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    width: 620px;
+    font-size: 24px;
+    max-width: 670px;
     line-height: 137.02%;
-    color: var(--white-color);
-    margin-bottom: 25px;
+    color: var(--secondary-color);
+    margin-bottom: 45px;
+    text-align: justify;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
-.buttonText {
+.buttonText{
     color: var(--white-color);
     font-size: 18px;
     text-align: center;
 }
 
 .button {
-    background-color: transparent;
     border-radius: 5px;
     border: 1px solid var(--secondary-color);
     opacity: 0.9;
+    background-color:var(--main-color);
+    justify-content: center;
     cursor: pointer;
     display: flex;
     padding: 21px 73px;
-    width: max-content;
-    filter: drop-shadow(0px 0px 5px rgba(217, 180, 137, 0.3));
+    max-width: 280px;
 }
 
 .heroPageImage {
-    position: absolute;
-    top: 0;
-    right: 0;
+    width: 820px;
+    height: 787px;
+    z-index: 0;
+}
+
+.imageWrapper {
+    height: 100%;
+    justify-content: flex-end;
+    display: flex;
+    align-items: flex-end;
+}
+
+.textWrapperColumn {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+@media (max-width: 1600px) {
+    .heroPageWrapperText {
+        padding: 0px 60px;
+    }
+
+    .heroPageImage { 
+    width: 659px;
+    height: 628px;
+    }
+}
+
+@media (max-width: 1400px) {
+    .heroPageImage { 
+        width: 678px;
+        height: 646px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .heroPageWrapperText {
+        padding: 0px 20px;
+    }
+    
+
+    .buttonText{
+        font-size: 14px !important;
+    }
+    .description {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 1100px) {
+    .heroPageImage { 
+        width: 554px;
+        height: 528px;
+    }
+}
+@media (max-width: 950px) {
+    .heroPageImage { 
+        width: 499px;
+        height: 476px;
+    }
+    
+    .description {
+        font-size: 16px;
+    }
+    
+    .button {
+        padding: 19px 40px;
+    }
+
+}
+.textWrapperColumn {
+
+}
+
+@media (max-width: 768px) {
+    .title {
+        text-align: center;
+    }
+    .textWrapperColumn {
+        width: 100% !important;
+        height: max-content;
+    }
+
+    .heroPageWrapper {
+        height: 100%;
+        justify-content: space-between;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .heroPage {
+        height: 700px;
+    }
+    
+    .imageWrapper {
+        width: 100%;
+        height: max-content;
+        justify-content: center;
+    }
+
+    .description {
+        font-size: 16px !important;
+        text-align:center;
+    }
+
+    .heroPageWrapperText {
+        align-items: center;
+        padding-top: 100px;
+        height: max-content;
+    }    
+
+    .heroPageImage { 
+        width: 391px;
+        height: 373px;
+    }
+
+    .button {
+        padding: 14px 27px;
+    }
+
+    .buttonText{
+        font-size: 12px !important;
+    }
+
+    .buttonWrapper {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 576px) {
+    .description {
+        font-size: 14px !important;
+        text-align:center;
+    }
+}
+
+@media (max-width: 420px) {
+    .heroPageImage { 
+        width: 320px;
+        height: 305px;
+    }
 }

@@ -12,6 +12,10 @@
     list-style: none;
 }
 
+.current {
+    color: var(--secondary-color) !important;
+}
+
 .languageWrapper li a {
     margin-right: 10px;
     font-size: 16px;
@@ -23,14 +27,15 @@
     margin-right: 0;
 }
 
-@media (max-width: 1200px) {
-    .languageWrapper li a {
-        font-size: 14px;
+@media (max-width: 768px) {
+    .languageWrapper {
+        justify-content: center !important;
+        margin-top: 30px;
     }
-}
-
-@media (max-width: 1000px) {
+    .languageWrapper ul {
+        padding-left: 0 !important;
+    }
     .languageWrapper li a {
-        font-size: 12px;
+        font-size: 16px !important;
     }
 }

@@ -1,15 +1,21 @@
 {
   "locales": [
-    "en",
-    "pl"
+    "pl",
+    "en"
   ],
   "defaultLocale": "pl",
+  "localeDetection": false,
   "pages": {
     "*": [
-      "common"
+      "common",
+      "offers",
+      "experts"
     ],
-    "/about": [
-      "about"
+    "/offers":[
+      "offers"
+    ],
+    "/experts":[
+      "experts"
     ]
   }
 }

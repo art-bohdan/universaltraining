@@ -2,8 +2,8 @@ import React from "react"
 import style from "../../styles/Feedback.module.css"
 import { Container } from "react-bootstrap"
 import useTranslation from "next-translate/useTranslation"
-import Slider from "react-slick"
-import { CustomCardFeedback } from "./CustomCardFeedback"
+import { Carousel } from "react-responsive-carousel"
+import { CustomFeedback } from "./CustomFeedback"
 
 const Feedback = () => {
   const { t } = useTranslation()
@@ -11,53 +11,46 @@ const Feedback = () => {
   const data = [
     {
       id: "1",
-      src: "/assets/images/png/feedback/urk.png"
+      description: t("common:FeedbackSection.card1.description"),
+      caption: t("common:FeedbackSection.card1.caption"),
+      src: "/assets/images/png/feedback/feedbackcard1.png"
     },
     {
       id: "2",
-      src: "/assets/images/png/feedback/PGE.png"
+      description: t("common:FeedbackSection.card2.description"),
+      caption: t("common:FeedbackSection.card2.caption"),
+      src: "/assets/images/png/feedback/feedbackcard2.png"
     },
     {
       id: "3",
-      src: "/assets/images/png/feedback/ppl.png"
+      description: t("common:FeedbackSection.card3.description"),
+      caption: t("common:FeedbackSection.card3.caption"),
+      src: "/assets/images/png/feedback/feedbackcard3.png"
     },
     {
       id: "4",
-      src: "/assets/images/png/feedback/dolny.png"
-    },
-    {
-      id: "2",
-      src: "/assets/images/png/feedback/PGE.png"
-    },
-    {
-      id: "3",
-      src: "/assets/images/png/feedback/ppl.png"
-    },
-    {
-      id: "4",
-      src: "/assets/images/png/feedback/dolny.png"
+      description: t("common:FeedbackSection.card4.description"),
+      caption: t("common:FeedbackSection.card4.caption"),
+      src: "/assets/images/png/feedback/feedbackcard4.png"
     }
   ]
-  const sliderSettings = {
-    infinite: true,
-    className: "slider variable-width",
-    speed: 500,
-    slidesToShow: 4,
-    slidesToScroll: 1,
-    autoplay: false,
-    dots: false
-  }
 
   return (
     <section id={"feedback"} className={`${style.feedback} default-container`}>
       <Container fluid={"xxl"}>
         <Container fluid={"xl"}>
           <h1 className={style.title}>{t("common:FeedbackSection.FeedbackTitle").toUpperCase()}</h1>
-          <Slider {...sliderSettings}>
+          <Carousel showArrows={false} showThumbs={false} showStatus={false} emulateTouch={false}>
             {data.map((data) => (
-              <CustomCardFeedback key={data.id} id={data.id} src={data.src} />
+              <CustomFeedback
+                key={data.id}
+                id={data.id}
+                src={data.src}
+                description={data.description}
+                caption={data.caption}
+              />
             ))}
-          </Slider>
+          </Carousel>
         </Container>
       </Container>
     </section>

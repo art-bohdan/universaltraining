@@ -1,8 +1,11 @@
 {
   "HeroSection": {
     "title": "Etiquette and communication in business",
-    "description": "The best preparation of Polish entrepreneurs to compete in foreign markets and the proper training of officials representing their institutions outside and participating in international projects.",
+    "description1": "Training and consultations are conducted by diplomats with many years of experience, academic lecturers and experts from individual markets.",
+    "description2": "Our activities are highly appreciated by both the state administration and Polish and foreign companies.",
+    "description3": "We invite you to cooperate.",
     "checkOffer": "Check offer",
+    "writeToUs": "Write To Us",
     "companyName": "UNIVERSAL TRAINING"
   },
   "AboutSection": {
@@ -11,62 +14,69 @@
   },
   "OffersSection": {
     "Offers": "Offers",
-    "OffersTitle": "Take a look at our offer",
+    "OffersTitle": "Training",
+    "OffersDescription":"Universal Training offers training in communication, business etiquette and diplomatic protocol. The trainings are aimed at employees of public institutions, state and private enterprises, business organizations, scientific institutions, universities, etc. Trainings improve communication skills, build self-confidence and increase professionalism in business contacts. They help to build official and social relationships in accordance with the principles of etiquette and respecting intercultural differences. They effectively influence the creation of the image of a professional organization, institution or company.",
+    "OffersConsultation":"Consultation",
+    "OffersConsultationDescription":"Universal Training also offers support for Polish and European companies planning or already implementing activities abroad. Experienced diplomats will introduce your companies to the secrets of intercultural communication with representatives of even the most remote regions of the world in Africa, Asia and South America. Our experts will prepare your companies and your managers for international expansion, help in the preparation of a business plan, taking into account cultural differences and different consumer preferences, and, thanks to their experience, will support strategic consulting on a culturally foreign market.",
     "card1": {
-      "title": "etuquette in business and intercultural communications",
-      "description": ""
+      "title": "etuquette in business and intercultural communications"
     },
     "card2": {
-      "title": "business etiquette and diplomatic protocol",
-      "description": ""
+      "title": "business etiquette and diplomatic protocol"
     },
     "card3": {
-      "title": "etiquette in communication with elements of diplomatic protocol ",
-      "description": ""
+      "title": "etiquette in communication with elements of diplomatic protocol "
     },
     "card4": {
-      "title": "etiquette of the profession",
-      "description": ""
+      "title": "etiquette of the profession"
     },
     "card5": {
-      "title": "savoir vivre and etiquette with elements of diplomatic protocol in the work of the secretariat",
-      "description": ""
+      "title": "savoir vivre and etiquette with elements of diplomatic protocol in the work of the secretariat"
     },
     "card6": {
-      "title": "etiquette and communication in catering",
-      "description": ""
+      "title": "etiquette and communication in catering"
     },
     "card7": {
-      "title": "Everything you'd like to know about wine but are afraid to ask",
-      "description": ""
+      "title": "Everything you'd like to know about wine but are afraid to ask"
     },
     "card8": {
-      "title": "design your own training",
-      "description": ""
+      "title": "design your own training"
     }
   },
   "ExpertsSection": {
     "Experts": "Experts",
     "ExpertsTitle": "Our team",
     "card1": {
-      "position": "Ambasador",
+      "position": "",
       "name": "Paweł Grotowski"
     },
     "card2": {
-      "position": "Ambasador",
+      "position": "Ambassador",
       "name": "Krzysztof Płomiński"
     },
     "card3": {
-      "position": "Ambasador",
+      "position": "Ambassador",
       "name": "Jan Wieliński"
     },
     "card4": {
-      "position": "Ambasador",
-      "name": "Paweł Grotowski"
+      "position": "Ambassador",
+      "name": "Tadeusz Chomicki"
     },
     "card5": {
-      "position": "Ambasador",
-      "name": "Paweł Grotowski"
+      "position": "Ambassador",
+      "name": "Andrzej Braiter"
+    },
+    "card6": {
+      "position": "Editor",
+      "name": "Krzysztof Turowski"
+    },
+    "card7": {
+      "position": "",
+      "name": "Artur Habant"
+    },
+    "card8": {
+      "position": "",
+      "name": "Marta Foryś"
     },
     "description": "We are a team of professionals who have represented Poland outside our country, implemented diplomatic, political and economic international projects, dealt with international and intercultural communication and are well acquainted with business customs and culture in major regions and countries of the world. We also offer preparation for business trips, support for international negotiations, consulting during business delegations in culturally foreign countries, especially in non-European countries. We also invite public, government and local government institutions that want to improve the skills of their employees in the area of proper and effective intercultural communication and building a positive image of the entire institution."
   },
@@ -84,9 +94,29 @@
       "description": "Satisfied clients"
     }
   },
+  "CompaniesSection": {
+    "Companies": "Companies",
+    "CompaniesTitle": "Customers who trust us"
+  },
   "FeedbackSection": {
     "Feedback": "Feedback",
-    "FeedbackTitle": "Customers who trust us"
+    "FeedbackTitle": "Read what customers are saying about us",
+    "card1":{
+      "description":"I would like to inform you that Mr. Pawel Grotowski of Universal Training successfully conducted a consultative meeting on the principles of etiquette in business communication, including the importance of first impression and body language in building a corporate image, the principles of composing an outfit according to the classic male dress code, the essence of intercultural differences and ways to overcome them, and the principles of table etiquette and wine culture. The meeting was highly appreciated by the participants. Mr. Pawel Grotowski demonstrated great knowledge, flexibility and adaptation to the needs of the participants. The atmosphere was conducive to the exchange of opinions and experiences, thanks to which the meeting had a dynamic character",
+      "caption": "BCC Institute for Economic Interventions"
+    },
+    "card2":{
+      "description":"I would like to inform you that Mr. Pawel Grotowski of Universal Training successfully conducted a consultative meeting on the principles of etiquette in business communication, including the importance of first impression and body language in building a corporate image, the principles of composing an outfit according to the classic male dress code, the essence of intercultural differences and ways to overcome them, and the principles of table etiquette and wine culture. The meeting was highly appreciated by the participants. Mr. Pawel Grotowski demonstrated great knowledge, flexibility and adaptation to the needs of the participants. The atmosphere was conducive to the exchange of opinions and experiences, thanks to which the meeting had a dynamic character",
+      "caption": "BCC Institute for Economic Interventions"
+    },
+    "card3":{
+      "description":"I would like to inform you that Mr. Pawel Grotowski of Universal Training successfully conducted a consultative meeting on the principles of etiquette in business communication, including the importance of first impression and body language in building a corporate image, the principles of composing an outfit according to the classic male dress code, the essence of intercultural differences and ways to overcome them, and the principles of table etiquette and wine culture. The meeting was highly appreciated by the participants. Mr. Pawel Grotowski demonstrated great knowledge, flexibility and adaptation to the needs of the participants. The atmosphere was conducive to the exchange of opinions and experiences, thanks to which the meeting had a dynamic character",
+      "caption": "BCC Institute for Economic Interventions"
+    },
+    "card4":{
+      "description":"I would like to inform you that Mr. Pawel Grotowski of Universal Training successfully conducted a consultative meeting on the principles of etiquette in business communication, including the importance of first impression and body language in building a corporate image, the principles of composing an outfit according to the classic male dress code, the essence of intercultural differences and ways to overcome them, and the principles of table etiquette and wine culture. The meeting was highly appreciated by the participants. Mr. Pawel Grotowski demonstrated great knowledge, flexibility and adaptation to the needs of the participants. The atmosphere was conducive to the exchange of opinions and experiences, thanks to which the meeting had a dynamic character",
+      "caption": "BCC Institute for Economic Interventions"
+    }
   },
   "ContactSection": {
     "Contact": "Contact",
@@ -113,7 +143,6 @@
     "col3": {
       "title": "Visit us at",
       "row1": "Facebook",
-      "row2": "Instagram",
       "row3": "LinkedIn"
     },
     "col4": {
